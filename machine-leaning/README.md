@@ -1,4 +1,4 @@
-# Machine Learning & Deep Learning Tutorials
+# Machine Learning Tutorials
 This repository offers a topic-wise curated collection of tutorials, articles, and resources on machine learning.
 
 ## Contents
