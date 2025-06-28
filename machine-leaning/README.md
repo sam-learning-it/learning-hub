@@ -2,7 +2,7 @@
 This repository offers a topic-wise curated collection of tutorials, articles, and resources on machine learning.
 
 ## Contents
-- [Introduction]
+- Introduction
 
 ## Introduction
 At its core, a machine learning model is built using an algorithm that learns from data. This algorithm can parse an input dataset, find patterns, and use these patterns to make predictions. Machine learning algorithms are designed to handle vast amounts of data, often involving millions of records, and can make intelligent decisions based on the patterns they identify.
